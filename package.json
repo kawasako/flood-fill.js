@@ -1,0 +1,24 @@
+{
+  "name": "flood-fill.js",
+  "version": "1.0.0",
+  "description": "Fast flood-fill on browser",
+  "main": "flood-fill.js",
+  "scripts": {
+    "build": "wat2wasm flood-fill.wat -o flood-fill.wasm"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawasako/flood-fill.js.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "WebAssembly",
+    "flood-fill"
+  ],
+  "author": "kawasako",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kawasako/flood-fill.js/issues"
+  },
+  "homepage": "https://github.com/kawasako/flood-fill.js#readme"
+}
